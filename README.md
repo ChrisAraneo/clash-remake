@@ -1,5 +1,5 @@
 # Clash Remake
 
-Reimplementation of Leryx Longsoft's 1998 DOS game, Clash.
+Open source remake of [Clash](https://www.gog.com/pl/game/clash), the 1998 DOS game by Leryx Longsoft.
 
-*Work in progress*.
+_Work in progress_.
